@@ -1,5 +1,5 @@
 
-# 💳🛒 E-comerce (PERN) 
+#  E-comerce archive project (PERN stack) 
 
 online store made on PERN stack
 
